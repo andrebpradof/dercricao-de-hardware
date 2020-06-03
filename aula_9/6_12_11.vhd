@@ -1,0 +1,11 @@
+-- ---------------------------------------------------------------
+--  SEL0632 - Linguagens de Descrição de Hardware (2020)		--
+--  Praticando VHDL para o projeto  							--
+--																--
+--	Exercicio 6.12.11												--
+--                                                              --
+--  Alunos:                                                     --
+--  André Baconcelo Prado Furlanetti - Nº USP: 10748305         --
+--  Diego da Silva Parra             - Nº USP: 10716550         --
+--  Mateus Fernandes Doimo           - Nº USP: 10691971         --
+-- ---------------------------------------------------------------
