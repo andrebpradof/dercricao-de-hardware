@@ -12,8 +12,8 @@
 ENTITY exer_7_6_8 IS
   GENERIC (n : INTEGER := 4);
   PORT (
-    inteiro_e : IN INTEGER RANGE 0 TO 2 ** n - 1; -- entrada inteiro
-    bit_s : OUT BIT_VECTOR (n - 1 DOWNTO 0)); -- saida convertida para bit_vector
+    inteiro_e : IN INTEGER RANGE 0 TO 2 ** n - 1;   -- entrada inteiro
+    bit_s : OUT BIT_VECTOR (n - 1 DOWNTO 0));       -- saida convertida para bit_vector
 END exer_7_6_8;
 
 ARCHITECTURE arch_7_6_8 OF exer_7_6_8 IS
